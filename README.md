@@ -28,6 +28,7 @@ To run this project, you need the following dependencies:
 
 ## Dataset
 The dataset should be organized into two directories: train and test. The train directory should contain subdirectories for each class (e.g., cat and dog), each containing the corresponding images. The test directory should contain the images you want to classify.
+To download the dataset from Kaggle, [click here](https://www.kaggle.com/competitions/dogs-vs-cats/data).
 
 ## Usage
 - After following all the previously mentioned steps, run the python program in a coding environment of your choice.
