@@ -5,7 +5,7 @@ This project demonstrates an image classification pipeline using a pre-trained V
 ## Directory Structure
 The project directory is organized as follows:
 
-project_directory/
+project_directory/  
 │  
 ├── train/  
 │   ├── cat/  
